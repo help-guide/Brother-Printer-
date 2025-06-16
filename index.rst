@@ -8,7 +8,7 @@ Visit `setup.brother.com <https://setup.brother.com>`_ to easily install and con
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Brother-Printer-Setup.png
+.. image:: Button.png
    :alt: Setup.brother.com
    :target: https://setup.brother.com
 
