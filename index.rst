@@ -26,46 +26,46 @@ What is Setup.brother.com?
 
 `Setup.brother.com <https://setup.brother.com>`_ is Brother’s official online portal for printer setup. It provides everything you need:
 
-- ✅ Download the latest drivers and software  
-- ✅ Follow step-by-step setup instructions  
-- ✅ Connect via wireless, USB, or Ethernet  
-- ✅ Access FAQs and troubleshooting help  
-- ✅ Register your printer for warranty and updates  
+-  Download the latest drivers and software  
+-  Follow step-by-step setup instructions  
+-  Connect via wireless, USB, or Ethernet  
+-  Access FAQs and troubleshooting help  
+-  Register your printer for warranty and updates  
 
 How to Set Up Brother Printer Easily
 -------------------------------------
 
 Follow these steps for a smooth setup experience:
 
-✅ **Step 1: Unpack Your Printer**  
+**Step 1: Unpack Your Printer**  
 Remove packaging materials and plug in the power cord.
 
-✅ **Step 2: Load Paper and Install Ink/Toner**  
+**Step 2: Load Paper and Install Ink/Toner**  
 Ensure your printer is ready to print before software installation.
 
-✅ **Step 3: Visit setup.brother.com**  
+**Step 3: Visit setup.brother.com**  
 Use a browser on your PC, Mac, or mobile device.
 
-✅ **Step 4: Enter Your Printer Model**  
+**Step 4: Enter Your Printer Model**  
 Type the model exactly as it appears (e.g., HL-L2321D).
 
-✅ **Step 5: Download & Install Software**  
+**Step 5: Download & Install Software**  
 Install the recommended drivers and software for your OS.
 
-✅ **Step 6: Connect Your Printer**  
+**Step 6: Connect Your Printer**  
 Choose USB, Wi-Fi, or Ethernet and follow the connection wizard.
 
-✅ **Step 7: Complete Setup**  
+**Step 7: Complete Setup**  
 Test your printer by printing a sample page.
 
 Advantages of Using Setup.brother.com
 --------------------------------------
 
-🖨️ **Centralized Resource** – Everything in one place  
-🔧 **Universal Compatibility** – Works with all Brother printer models  
-📱 **Cross-Platform Support** – PC, Mac, and mobile friendly  
-📶 **Simple Wireless Setup** – Connect your printer to Wi-Fi in minutes  
-🛠️ **Instant Troubleshooting** – Access support documentation and FAQs  
+* 🖨️ **Centralized Resource** – Everything in one place  
+* 🔧 **Universal Compatibility** – Works with all Brother printer models  
+* 📱 **Cross-Platform Support** – PC, Mac, and mobile friendly  
+* 📶 **Simple Wireless Setup** – Connect your printer to Wi-Fi in minutes  
+* 🛠️ **Instant Troubleshooting** – Access support documentation and FAQs  
 
 My Personal Experience with Setup.brother.com
 ----------------------------------------------
@@ -78,10 +78,10 @@ FAQs
 ====
 
 **1. Is Setup.brother.com safe and official?**  
-✅ Yes, it is the official setup site provided by Brother.
+Yes, it is the official setup site provided by Brother.
 
 **2. Can I install a printer without the CD?**  
-✅ Absolutely! Setup.brother.com replaces the need for CDs or printed manuals.
+ Absolutely! Setup.brother.com replaces the need for CDs or printed manuals.
 
 **3. My computer doesn't detect the printer—what do I do?**  
 - Check your USB or wireless connection  
@@ -89,10 +89,10 @@ FAQs
 - Reinstall the driver from the official site
 
 **4. Does this site work for Mac users too?**  
-✅ Yes, it auto-detects macOS and provides compatible downloads.
+Yes, it auto-detects macOS and provides compatible downloads.
 
 **5. Can I use my phone to set up a Brother printer?**  
-✅ Yes! Use the **Brother Mobile Connect** app on Android or iOS.
+Yes! Use the **Brother Mobile Connect** app on Android or iOS.
 
 Tips for a Smooth Setup
 ------------------------
