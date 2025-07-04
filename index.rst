@@ -10,7 +10,7 @@ Visit `setup.brother.com <https://setup.brother.com>`_ to easily install and con
 
 .. image:: Button.png
    :alt: Setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9icm90aGVycHJpbnRlcmhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://sites.google.com/view/brotherprinterdrivers-download/
 
 .. raw:: html
 
